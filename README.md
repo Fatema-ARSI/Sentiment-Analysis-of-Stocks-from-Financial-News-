@@ -1,7 +1,7 @@
 # Stock-News-Sentiment-Analysis
 ## Project Overview:
-- Collected the Date, Time and News Headlines Data
-- Parsed the Data into a Python List
+- Collected the Date, Time and News Headlines Data from FinViz website
+- Extracted stock sentiments from financial news headlines 
 - Perfomed Sentiment Analysis 
 
 ## Code and Resources used:
