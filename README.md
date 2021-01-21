@@ -1,5 +1,4 @@
-# Stock-News-Sentiment-Analysis
-## Project Overview:
+# Sentiment Analysis of Stocks from Financial News 
 - Collected the Date, Time and News Headlines Data from FinViz website.
 - Extracted stock sentiments from financial news headlines.
 - Perfomed Sentiment Analysis. 
